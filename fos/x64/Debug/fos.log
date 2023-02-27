@@ -1,0 +1,22 @@
+﻿  catalog.cpp
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\encodebytes.h(9,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(18,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(33,15): warning C4309: “=”: 截断常量值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(125,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(150,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\encodebytes.h(9,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  menu.cpp
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\encodebytes.h(9,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\menu.cpp(1008,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\menu.cpp(477): warning C4715: “Menu::cpDir”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\menu.cpp(489): warning C4715: “Menu::cpFile”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\menu.cpp(658): warning C4715: “Menu::cutDir”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\menu.cpp(670): warning C4715: “Menu::cutFile”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(325): warning C4715: “CatalogController::getFa”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(507): warning C4715: “CatalogController::rm”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(596): warning C4715: “CatalogController::ls”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(622): warning C4715: “CatalogController::cd”: 不是所有的控件路径都返回值
+D:\1巩钊旭\Visual Studio 2022 Code\fos\fos\catalog.cpp(966): warning C4715: “CatalogController::link”: 不是所有的控件路径都返回值
+  fos.vcxproj -> D:\1巩钊旭\Visual Studio 2022 Code\fos\x64\Debug\fos.exe
